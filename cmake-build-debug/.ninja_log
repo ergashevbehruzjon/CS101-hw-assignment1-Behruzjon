@@ -1,0 +1,10 @@
+# ninja log v6
+492	578	1726207549132352861	CS101_hw_assignment1_Behruzjon	80acebb77651c635
+6	477	1726207698568866617	CMakeFiles/CS101_hw_assignment1_Behruzjon.dir/problem2.cpp.o	bbefe5239727155b
+0	491	1726207548640518190	CMakeFiles/CS101_hw_assignment1_Behruzjon.dir/problem1.cpp.o	d5bb6936bd7eea76
+1	47	1726208353023520560	build.ninja	2619de7d7473af29
+2	41	1726208353023520560	build.ninja	2619de7d7473af29
+4	537	1726208353031853054	CMakeFiles/CS101_hw_assignment1_Behruzjon.dir/problem5.cpp.o	95dd20cf3e0c547
+3	538	1726208353031236564	CMakeFiles/CS101_hw_assignment1_Behruzjon.dir/problem2.cpp.o	bbefe5239727155b
+3	538	1726208353031407686	CMakeFiles/CS101_hw_assignment1_Behruzjon.dir/problem3.cpp.o	87d66a28df661827
+4	539	1726208353031748348	CMakeFiles/CS101_hw_assignment1_Behruzjon.dir/problem4.cpp.o	8528996cc2b96e41

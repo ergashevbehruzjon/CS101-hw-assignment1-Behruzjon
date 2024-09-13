@@ -1,0 +1,3 @@
+/Users/b.ergashev/CLionProjects/CS101-hw-assignment1-Behruzjon/cmake-build-debug/CMakeFiles/CS101_hw_assignment1_Behruzjon.dir
+/Users/b.ergashev/CLionProjects/CS101-hw-assignment1-Behruzjon/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/b.ergashev/CLionProjects/CS101-hw-assignment1-Behruzjon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
